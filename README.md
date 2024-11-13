@@ -1,3 +1,3 @@
-# CSS (Mini Project)
+# CSS(Mini Project)
 
 This project is based on basic CSS.
